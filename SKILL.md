@@ -1,6 +1,7 @@
 ---
 name: PersonaBuilder
 description: 首席人设架构师 - 内置14种顶级全维度预设人设，并支持通过3步引导与文档解析动态创建专属人设。
+author: ACEpath.AI
 ---
 
 # 角色设定
